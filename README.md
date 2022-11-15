@@ -23,7 +23,7 @@ Simple animation with hexagon shaped elements that move in background of  elemen
 
 ### How use it in project?
 
-After download and adding to your website, you need to chose which element should have this animated background.
+After download and adding to your website, you need to choose which element should have this animated background.
 
 After you choosed element, just ad id="animation".
 
@@ -36,7 +36,7 @@ e.g.
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
 
 #### data-left-margin-start (default value=50):
-If nothing set, element will be generated in the left side of window, with left margin set between 0 and 50 px (value generated randomly).
+If nothing set, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
 
 
 #### data-min-dimension (default value=5):
