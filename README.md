@@ -1,4 +1,4 @@
-#Particle_background plugin.
+#  Particle_background plugin.
 
 ### <a href="https://htmlpreview.github.io/?https://github.com/WojcioTrue/particle_background/blob/457ecf75108137aa90e335ad350091938274fd84/index.html" target="_blank">Click me for live preview</a>
 
@@ -16,10 +16,8 @@ How to add Particle_background to project?
 
 4. Add script and initiate e.g.
 
-	`<script src ="dist/js/particles.js"></script>
-	<script>
-		practiceInit();
-	</script>`
+	`<script src ="dist/js/particles.js"></script>`
+	`<script>practiceInit();</script>`
 
 
 ### How use it in project?
@@ -37,14 +35,14 @@ e.g.
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
 
 ##### data-left-margin-start (default value=50):
-	If nothing set, element will be generated in the left side of window, with left margin set between 0 and 50 px (value generated randomly).
+If nothing set, element will be generated in the left side of window, with left margin set between 0 and 50 px (value generated randomly).
 
 
 ##### data-min-dimension (default value=5):
-	minimal width and height of particle.
+Minimal width and height of particle.
 
 ##### data-max-dimension (default value=20):
-	maximum width and height of particle.
+Maximum width and height of particle.
 
 Size of particle is generated randomly between this two values.
 
