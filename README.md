@@ -6,13 +6,13 @@
 
 Simple animation with hexagon shaped elements that move in background of your container.
 
-How to add Particle_background to project? 
+**How to add Particle_background to project?** 
 
 1. Download folders from 'dist' folder.
 2. Copy them to your website project.
 3. Paste css href in "head" element e.g.
 
-	<link rel="stylesheet" href="dist/css/style.css">
+	`<link rel="stylesheet" href="dist/css/style.css">`
 
 4. Add script and initiate e.g.
 
