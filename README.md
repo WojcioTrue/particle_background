@@ -4,7 +4,7 @@
 
 **Description:**
 
-Simple animation with hexagon shaped elements that move in background of your container.
+Simple animation with hexagon shaped elements that move in background of  element.
 
 **How to add Particle_background to project?** 
 
