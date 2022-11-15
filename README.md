@@ -6,13 +6,13 @@ Description:
 
 Simple animation with hexagon shaped elements that move in background of your container.
 
-How to use? 
+How to add Particle_background to project? 
 
 1. Download folders from 'dist' folder.
 
 2. Copy them to your website project.
 
-3. Paste css href in "<head>" element e.g.
+3. Paste css href in "head" element e.g.
 	<link rel="stylesheet" href="dist/css/style.css">
 
 4. Same for JS script e.g.
@@ -24,3 +24,13 @@ How to use?
          practiceInit();
       </script>
 
+
+How use it in project?
+
+After download and adding to your website, you need to chose which element should have this background.
+
+after you choosed element, just ad id="animation".
+
+eg.
+
+<div id="animation"></div>
