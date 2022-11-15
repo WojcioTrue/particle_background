@@ -20,9 +20,9 @@ How to add Particle_background to project?
 
 5. Initiate script.
 
-      <script>
-         practiceInit();
-      </script>
+	<script>
+		practiceInit();
+	</script>
 
 
 How use it in project?
@@ -31,6 +31,39 @@ After download and adding to your website, you need to chose which element shoul
 
 after you choosed element, just ad id="animation".
 
-eg.
+e.g.
 
-<div id="animation"></div>
+	<div id="animation"></div>
+
+Changing default values.
+
+There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
+
+data-left-margin-start (default value=50):
+	If nothing set, element will be generated in the left side of window, with left margin set between 0 and 50 px (value generated randomly).
+
+
+data-min-dimension (default value=5):
+	minimal width and height of particle.
+
+data-max-dimension (default value=20):
+	maximum width and height of particle.
+
+Size of particle is generated randomly between this two values.
+
+data-el-color (default value="undefined", will return black).
+
+e.g.
+
+	<div 
+	 id="animation"
+
+	 data-left-margin-start="100" 
+
+	 data-min-dimension="4"
+
+	 data-max-dimension="15" 
+
+	 data-el-color="gold">
+
+	</div>
