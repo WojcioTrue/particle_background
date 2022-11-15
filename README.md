@@ -1,6 +1,6 @@
 #  Particle_background plugin.
 
-### <a href="https://htmlpreview.github.io/?https://github.com/WojcioTrue/particle_background/blob/457ecf75108137aa90e335ad350091938274fd84/index.html" target="_blank">Click me for live preview</a>
+### <a href="https://htmlpreview.github.io/?https://github.com/WojcioTrue/particle_background/blob/457ecf75108137aa90e335ad350091938274fd84/index.html" target="_blank">Click for live preview</a>
 
 **Description:**
 
@@ -23,9 +23,9 @@ Simple animation with hexagon shaped elements that move in background of  elemen
 
 ### How use it in project?
 
-After download and adding to your website, you need to chose which element should have this background.
+After download and adding to your website, you need to chose which element should have this animated background.
 
-after you choosed element, just ad id="animation".
+After you choosed element, just ad id="animation".
 
 e.g.
 
