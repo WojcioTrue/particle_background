@@ -77,10 +77,10 @@ When you choosed element, just ad `id="animation"`.
 	<div id="animation"></div>
 **e.g. with changed default values**
 Here element will be generated with:
-- margin-left with value between 0px and 100px
-- minimal height of 4px
-- maximum height of 15px
-- color of element will be set to "gold"
+-margin-left with value between 0px and 100px
+-minimal height of 4px
+-maximum height of 15px
+-color of element will be set to "gold"
 
 
 	<div 
