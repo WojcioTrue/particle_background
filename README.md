@@ -32,23 +32,26 @@ There are some values for plugin that you can change. All these values (except d
 - **Setting left margin of particle (default value=50)**
 
 if we didn't specify a value, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
-`data-left-margin-start="20"`
+
+	`data-left-margin-start="20"`
 
 - **setting maximum size of particle (default value=5)**
 
 Maximum width and height of particle.
-`data-max-dimension="5"`
+
+	`data-max-dimension="5"`
 
 
 - **setting minimum size of particle (default value=5)**
 
  Minimum width and height of particle.
-`data-min-dimension="5" `
+
+	`data-min-dimension="5" `
 
 
 - **setting color of particle (no value will return black)**
 
-`data-el-color="gold"`
+	`data-el-color="gold"`
 
 - **mobile friendly**
 - **RWD**
