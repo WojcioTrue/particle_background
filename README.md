@@ -46,7 +46,7 @@ Maximum width and height of particle.
 
 
 ## Screenshot
-(/src/img/screen_shot.png)
+![alt text](/src/img/screen_shot.png)
 
 ## Setup
 **How to install**
