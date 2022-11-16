@@ -83,12 +83,11 @@ Here element will be generated with:
 -color of element will be set to "gold"
 
 
-	<div 
-		id="animation" 
-		data-left-margin-start="100" 
-		data-min-dimension="4"       
-		data-max-dimension="15" 
-		data-el-color="gold">
+	<div id="animation" 
+	data-left-margin-start="100" 
+	data-min-dimension="4"       
+	data-max-dimension="15" 
+	data-el-color="gold">
 	</div>
 
 ## Project Status
