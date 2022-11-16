@@ -51,6 +51,7 @@ Maximum width and height of particle.
 
 - **setting color of particle (no value will return black)**
 
+	
 	`data-el-color="gold"`
 
 - **mobile friendly**
