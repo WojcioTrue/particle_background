@@ -30,7 +30,9 @@
 ## Features
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
 - **Setting left margin of element**__
+
 `data-left-margin-start="20" (default value=50)`__
+
 If nothing set, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
 - **setting maximum size of element**
 `data-min-dimension="5" (default value=5)`
