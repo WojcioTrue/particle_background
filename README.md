@@ -1,6 +1,5 @@
 # Particle_background
->Simple animation with hexagon shaped elements that move in background of element.
-
+>Simple animation with hexagon shaped elements that move in background of element.<br/>
 > Live demo [_here_](https://htmlpreview.github.io/?https://github.com/WojcioTrue/particle_background/blob/457ecf75108137aa90e335ad350091938274fd84/index.html).
 
 ## Table of Contents
