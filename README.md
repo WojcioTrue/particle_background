@@ -29,19 +29,25 @@
 
 ## Features
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
-- **Setting left margin of element**__
+- **Setting left margin of element**
 
-`data-left-margin-start="20" (default value=50)`__
+`data-left-margin-start="20" (default value=50)`
 
 If nothing set, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
 - **setting maximum size of element**
+
 `data-min-dimension="5" (default value=5)`
+
 Minimal width and height of particle.
 - **setting minimum size of element**
+
 `data-max-dimension="5" (default value=5)`
+
 Maximum width and height of particle.
 - **setting color of element**
+
 `data-el-color="gold", (no value will return black)`
+
 - **mobile friendly**
 - **RWD**
 
