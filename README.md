@@ -70,27 +70,28 @@ Add script before </body> tag and initiate e.g.
 
 ## Usage
 After download and adding to your website, you need to choose which element should have this animated background.
-When you choosed element, just ad id="animation"
+When you choosed element, just ad `id="animation"`.
 
 **e.g.**
 
 	<div id="animation"></div>
 **e.g. with changed default values**
 Here element will be generated with:
-margin-left with value between 0px and 100px
-minimal height of 4px
-maximum height of 15px
-color of element will be set to "gold"
+- margin-left with value between 0px and 100px
+- minimal height of 4px
+- maximum height of 15px
+- color of element will be set to "gold"
 
 
-        <div 
-         id="animation" 
-         class="container-fluid main_container"
-         data-left-margin-start="100" 
-         data-min-dimension="4"       
-         data-max-dimension="15" 
-         data-el-color="gold">
-        </div>
+
+	<div 
+		id="animation" 
+		data-left-margin-start="100" 
+		data-min-dimension="4"       
+		data-max-dimension="15" 
+		data-el-color="gold">
+	</div>
+
 ## Project Status
 Project is: _in progress_
 
