@@ -63,7 +63,7 @@ Copy them to your website project.
 Paste css href in "head" element e.g.
 
     <link rel="stylesheet" href="dist/css/style.css">
-Add script before </body> tag and initiate e.g.
+Add script before `</body>` tag and initiate e.g.
 
     <script src ="dist/js/particles.js"></script>
     <script>practiceInit();</script>
