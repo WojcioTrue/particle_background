@@ -76,6 +76,7 @@ When you choosed element, just ad `id="animation"`.
 
 	<div id="animation"></div>
 **e.g. with changed default values**
+
 Here element will be generated with:
 - margin-left with value between 0px and 100px
 - minimal height of 4px
