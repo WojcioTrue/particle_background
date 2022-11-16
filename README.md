@@ -83,7 +83,6 @@ Here element will be generated with:
 - color of element will be set to "gold"
 
 
-
 	<div 
 		id="animation" 
 		data-left-margin-start="100" 
