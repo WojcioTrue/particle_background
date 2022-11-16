@@ -1,5 +1,5 @@
 # Particle_background
->Simple animation with hexagon shaped elements that move in background of element.<br/>
+>Simple animation with hexagon shaped particles that move in background of element.<br/>
 > Live demo [_here_](https://htmlpreview.github.io/?https://github.com/WojcioTrue/particle_background/blob/457ecf75108137aa90e335ad350091938274fd84/index.html).
 
 ## Table of Contents
@@ -16,7 +16,7 @@
 
 ## General Information
 - Smooth animation for background particles.
-- Getting better understanding how many elements can be generated, animated and modified.
+- Getting better understanding how particles can be generated, animated and modified.
 
 
 
@@ -29,22 +29,22 @@
 
 ## Features
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
-- **Setting left margin of element**
+- **Setting left margin of particle**
 
 `data-left-margin-start="20" (default value=50)`
 
 If nothing set, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
-- **setting maximum size of element**
+- **setting maximum size of particle**
 
 `data-min-dimension="5" (default value=5)`
 
 Minimal width and height of particle.
-- **setting minimum size of element**
+- **setting minimum size of particle**
 
 `data-max-dimension="5" (default value=5)`
 
 Maximum width and height of particle.
-- **setting color of element**
+- **setting color of particle**
 
 `data-el-color="gold", (no value will return black)`
 
@@ -77,7 +77,7 @@ When you choosed element, just ad `id="animation"`.
 	<div id="animation"></div>
 **e.g. with changed default values**
 
-Here element will be generated with:
+Here particle will be generated with:
 - margin-left with value between 0px and 100px
 - minimal height of 4px
 - maximum height of 15px
