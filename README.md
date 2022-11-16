@@ -17,6 +17,9 @@
 ## General Information
 - Smooth animation for background particles.
 - Getting better understanding how particles can be generated, animated and modified.
+- Learning how `Window.requestAnimationFrame()` work.
+- modifying CSS properieties of particle using JavaScript.
+- working on HTMLCollection.
 
 
 
@@ -67,7 +70,7 @@ If we don't specify a value, particle will have black color.
 **How to install**<br/>
 Download folders from 'dist' folder.
 Copy them to your website project.
-Paste css href in `</head>` element e.g.
+Add css href in `</head>` element e.g.
 
     <link rel="stylesheet" href="dist/css/style.css">
 Add script before `</body>` tag and initiate e.g.
