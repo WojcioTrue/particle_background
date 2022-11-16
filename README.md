@@ -29,24 +29,26 @@
 
 ## Features
 There are some values for plugin that you can change. All these values (except data-el-color), are interpreted as pixel values.
-- **Setting left margin of particle**
+- **Setting left margin of particle (default value=50)**
 
-`data-left-margin-start="20" (default value=50)`
+if we didn't specify a value, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
+`data-left-margin-start="20"`
 
-If nothing set, element will be generated in the left side of window, with left margin set between 0 to 50px (value generated randomly).
-- **setting maximum size of particle**
-
-`data-min-dimension="5" (default value=5)`
-
-Minimal width and height of particle.
-- **setting minimum size of particle**
-
-`data-max-dimension="5" (default value=5)`
+- **setting maximum size of particle (default value=5)**
 
 Maximum width and height of particle.
-- **setting color of particle**
+`data-max-dimension="5"`
 
-`data-el-color="gold", (no value will return black)`
+
+- **setting minimum size of particle (default value=5)**
+
+ Minimum width and height of particle.
+`data-min-dimension="5" `
+
+
+- **setting color of particle (no value will return black)**
+
+`data-el-color="gold"`
 
 - **mobile friendly**
 - **RWD**
@@ -57,10 +59,10 @@ Maximum width and height of particle.
 ![alt text](/src/img/screen_shot.png)
 
 ## Setup
-**How to install**
+**How to install**<br/>
 Download folders from 'dist' folder.
 Copy them to your website project.
-Paste css href in "head" element e.g.
+Paste css href in `</head>` element e.g.
 
     <link rel="stylesheet" href="dist/css/style.css">
 Add script before `</body>` tag and initiate e.g.
